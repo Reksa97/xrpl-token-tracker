@@ -2,6 +2,19 @@
 import xrpl from "xrpl";
 import { Holders } from "./types.ts";
 
+const ledgerStep = 1500;
+
+const tokens = {
+  ellis: {
+    address: "rUJtSLHAhacEmcDZ92t4gdD7SUhbJB9bYC",
+    prefix: "ellis",
+  },
+  parry: {
+    address: "raFfm8ihTX65ToJCdBE55dg5WvfgJXCHnk",
+    prefix: "parry",
+  },
+};
+
 const getLedgerIndexTime = async (
   client: xrpl.Client,
   ledgerIndex: number | "validated"
@@ -15,13 +28,10 @@ const getLedgerIndexTime = async (
   return new Date(timeInISO);
 };
 
-const current = async (client: xrpl.Client) => {
-  const account = Deno.env.get("XRPL_ACCOUNT");
-  const token = Deno.env.get("ELLIS");
-  if (!account || !token) {
-    throw new Error(
-      "XRPL_ACCOUNT and ELLIS environment variables are required"
-    );
+const current = async (client: xrpl.Client, tokenName: keyof typeof tokens) => {
+  const token = tokens[tokenName].address;
+  if (!token) {
+    throw new Error(`Token address is required`);
   }
 
   const response = await client.request({
@@ -35,14 +45,24 @@ const current = async (client: xrpl.Client) => {
 
   const encoder = new TextEncoder();
   const data = encoder.encode(JSON.stringify(result, null, 2));
-  await Deno.writeFile(`data/ellis-${new Date().getTime()}.json`, data);
+  await Deno.writeFile(
+    `data/${tokens[tokenName].prefix}-${new Date().getTime()}.json`,
+    data
+  );
 };
 
 const storeLedgerState = async (
   client: xrpl.Client,
-  token: string,
+  tokenName: keyof typeof tokens,
   ledgerIndex: number | "validated"
 ) => {
+  const token = tokens[tokenName].address;
+  if (!token) {
+    throw new Error(
+      `${tokens[tokenName].address} environment variable is required`
+    );
+  }
+
   const response = await client.request({
     command: "account_lines",
     account: token,
@@ -61,34 +81,48 @@ const storeLedgerState = async (
   console.log(
     `Writing ledger ${result.ledger_index} at ${timeThen.toISOString()}`
   );
-  await Deno.writeFile(`data/ellis-${result.ledger_index}.json`, data);
+  await Deno.writeFile(
+    `data/${tokens[tokenName].prefix}-${result.ledger_index}.json`,
+    data
+  );
 };
 
-const previous = async (client: xrpl.Client) => {
-  const account = Deno.env.get("XRPL_ACCOUNT");
-  const token = Deno.env.get("ELLIS");
-  let startLedgerIndex = parseInt(Deno.args[1], 10);
-  if (!account || !token) {
-    throw new Error(
-      "XRPL_ACCOUNT and ELLIS environment variables are required"
-    );
+const previous = async (
+  client: xrpl.Client,
+  tokenName: keyof typeof tokens
+) => {
+  const token = tokens[tokenName].address;
+  let startLedgerIndex = Deno.args[2] ? parseInt(Deno.args[2], 10) : undefined;
+  if (!token) {
+    throw new Error(`Token address is required`);
   }
 
   if (!startLedgerIndex) {
-    const ledgerResponse = await client.request({
-      command: "ledger",
-      ledger_index: "validated",
-    });
-    startLedgerIndex = ledgerResponse.result.ledger_index;
+    const files = getSortedFiles(tokenName);
+    const oldestFile = files[0];
+    startLedgerIndex = oldestFile
+      ? parseInt(
+          oldestFile.match(new RegExp(`${tokenName}-(\\d+)\\.json`))![1],
+          10
+        )
+      : undefined;
+    if (!startLedgerIndex) {
+      console.log("No previous files found, starting from the latest ledger");
+      const ledgerResponse = await client.request({
+        command: "ledger",
+        ledger_index: "validated",
+      });
+      startLedgerIndex = ledgerResponse.result.ledger_index;
+    }
   }
-
-  const ledgerStep = 1000;
 
   let ledgerIndex = startLedgerIndex;
 
+  console.log(`Starting from ledger ${ledgerIndex}`);
+
   for (let i = 1; true; i++) {
     try {
-      await storeLedgerState(client, token, ledgerIndex);
+      await storeLedgerState(client, tokenName, ledgerIndex);
       // Step back in time
       ledgerIndex -= ledgerStep;
       await new Promise((resolve) => setTimeout(resolve, 1000));
@@ -99,14 +133,22 @@ const previous = async (client: xrpl.Client) => {
   }
 };
 
-const process = async () => {
+const process = async (tokenName: keyof typeof tokens) => {
   const files = [];
-  const holders: Holders = { timestamps: [], accounts: {} };
+  const prefix = tokens[tokenName].prefix;
+
   for (const dirEntry of Deno.readDirSync("data")) {
-    if (dirEntry.isFile && dirEntry.name.endsWith(".json"))
+    if (
+      dirEntry.isFile &&
+      dirEntry.name.endsWith(".json") &&
+      dirEntry.name.startsWith(prefix)
+    ) {
       files.push(dirEntry.name);
+    }
   }
   files.sort();
+
+  const holders: Holders = { timestamps: [], accounts: {} };
 
   let i = 0;
   for (const file of files) {
@@ -153,35 +195,51 @@ const process = async () => {
 
   const encoder = new TextEncoder();
   const data = encoder.encode(JSON.stringify(holders, null, 2));
-  await Deno.writeFile(`client/ellis-holders.json`, data);
-  console.log(`Wrote client/ellis-holders.json`);
+  await Deno.writeFile(`client/public/${prefix}-holders.json`, data);
+  console.log(`Wrote client/public/${prefix}-holders.json`);
 };
 
-const processNewLedgers = async (client: xrpl.Client) => {
+const getSortedFiles = (tokenName: keyof typeof tokens) => {
   const files = [];
+  const prefix = tokens[tokenName].prefix;
+
   for (const dirEntry of Deno.readDirSync("data")) {
-    if (dirEntry.isFile && dirEntry.name.endsWith(".json"))
+    if (
+      dirEntry.isFile &&
+      dirEntry.name.endsWith(".json") &&
+      dirEntry.name.startsWith(prefix)
+    ) {
       files.push(dirEntry.name);
+    }
   }
   files.sort();
+  return files;
+};
+
+const processNewLedgers = async (
+  client: xrpl.Client,
+  tokenName: keyof typeof tokens
+) => {
+  const prefix = tokens[tokenName].prefix;
+  const files = getSortedFiles(tokenName);
   const newestFile = files[files.length - 1];
   let ledgerIndex = newestFile
-    ? parseInt(newestFile.match(/ellis-(\d+)\.json/)![1], 10)
+    ? parseInt(newestFile.match(new RegExp(`${prefix}-(\\d+)\\.json`))![1], 10)
     : 0;
 
-  console.log(`Starting from ledger ${ledgerIndex} + 1500`);
+  console.log(`Starting from ledger ${ledgerIndex} + ${ledgerStep}`);
 
   while (true) {
-    ledgerIndex += 1500;
+    ledgerIndex += ledgerStep;
     try {
-      await storeLedgerState(client, Deno.env.get("ELLIS")!, ledgerIndex);
+      await storeLedgerState(client, tokenName, ledgerIndex);
       await new Promise((resolve) => setTimeout(resolve, 1000));
     } catch (error: any) {
       if (error?.message?.includes("ledgerNotFound")) {
         console.log(
           "Reached the end of the ledger, fetching the latest one and quitting"
         );
-        await storeLedgerState(client, Deno.env.get("ELLIS")!, "validated");
+        await storeLedgerState(client, tokenName, "validated");
       } else {
         console.error(`Error processing ledger ${ledgerIndex}:`, error);
       }
@@ -196,16 +254,29 @@ if (import.meta.main) {
   const client = new xrpl.Client(xrplUrl);
   await client.connect();
 
-  const mode = Deno.args[0]; // deno run main.ts <mode>
+  const mode = Deno.args[0]; // deno run main.ts <mode> <token>
+  const tokenNameArg = (
+    Deno.args[1] ?? "ellis"
+  ).toLowerCase() as keyof typeof tokens;
+
+  if (!tokens[tokenNameArg]) {
+    throw new Error(
+      `Invalid token name. Supported tokens: ${Object.keys(tokens).join(", ")}`
+    );
+  }
+
+  console.log(`Running in ${mode} mode for ${tokenNameArg}`);
+
   if (mode === "current") {
-    await current(client);
+    await current(client, tokenNameArg);
   } else if (mode === "previous") {
-    await previous(client);
+    await previous(client, tokenNameArg);
+    await process(tokenNameArg);
   } else if (mode === "process") {
-    await process();
+    await process(tokenNameArg);
   } else if (mode === "newest") {
-    await processNewLedgers(client);
-    await process();
+    await processNewLedgers(client, tokenNameArg);
+    await process(tokenNameArg);
   } else {
     throw new Error("Invalid mode");
   }

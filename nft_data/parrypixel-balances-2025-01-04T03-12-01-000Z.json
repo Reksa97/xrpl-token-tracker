@@ -1,0 +1,3690 @@
+{
+  "totalHolders": 24,
+  "totalNfts": 47,
+  "transactionsAmount": 91,
+  "holders": [
+    {
+      "address": "r9Lh9XQx91jUAZZ7zuXiZC2PEchyjaueWK",
+      "nftAmount": 1,
+      "nfts": [
+        "Parry perch #574"
+      ],
+      "recentAirdrops": null
+    },
+    {
+      "address": "rB3Gn37vMmnVmfM1Ko7xFkSNS8x8xvBpQJ",
+      "nftAmount": 1,
+      "nfts": [
+        "Parry perch #62"
+      ],
+      "recentAirdrops": null
+    },
+    {
+      "address": "rLmsohdSEXXtBFrSdDTjfXRjmkSU7KHfus",
+      "nftAmount": 1,
+      "nfts": [
+        "Parry perch #322"
+      ],
+      "recentAirdrops": null
+    },
+    {
+      "address": "rMJWQuGVwwjCSB2uxg9kBHWAszPJAEVTYx",
+      "nftAmount": 1,
+      "nfts": [
+        "Parry perch #299"
+      ],
+      "recentAirdrops": null
+    },
+    {
+      "address": "rGR24bDyGWHbHfvpBZtBQGXAbKDeF8j7YD",
+      "nftAmount": 1,
+      "nfts": [
+        "Parry perch #588"
+      ],
+      "recentAirdrops": null
+    },
+    {
+      "address": "rhguC5QAthoZpc6T5H7HZMeCrFJMtSjNZc",
+      "nftAmount": 2,
+      "nfts": [
+        "Parry perch #42",
+        "Parry perch #12"
+      ],
+      "recentAirdrops": null
+    },
+    {
+      "address": "rUifgZubvg1nr6wZE73yTRNVZF4ep8Fa7M",
+      "nftAmount": 1,
+      "nfts": [
+        "Parry perch #526"
+      ],
+      "recentAirdrops": null
+    },
+    {
+      "address": "rLVAKRj4zYW8y2bRdD3XLcWCxHPggbvF6P",
+      "nftAmount": 1,
+      "nfts": [
+        "Parry perch #52"
+      ],
+      "recentAirdrops": null
+    },
+    {
+      "address": "rUWrSnGBXvXn3v41xNaAUnLaovXUwGmasv",
+      "nftAmount": 1,
+      "nfts": [
+        "Parry perch #7"
+      ],
+      "recentAirdrops": null
+    },
+    {
+      "address": "rDzQaiue1YYro7g1kjRiRMw85Nk9w4QesE",
+      "nftAmount": 5,
+      "nfts": [
+        "Parry perch #342",
+        "Parry perch #140",
+        "Parry perch #155",
+        "Parry perch #361",
+        "Parry perch #421"
+      ],
+      "recentAirdrops": null
+    },
+    {
+      "address": "rSCSrUn7JkhW4zjWfQMZf7F9SFd7MDvTA",
+      "nftAmount": 3,
+      "nfts": [
+        "Parry perch #294",
+        "Parry perch #67",
+        "Parry perch #41"
+      ],
+      "recentAirdrops": null
+    },
+    {
+      "address": "rW7WjoXrEkCAkX6HMYogQA1nyd2BSwUqT",
+      "nftAmount": 2,
+      "nfts": [
+        "Parry perch #217",
+        "Parry perch #256"
+      ],
+      "recentAirdrops": null
+    },
+    {
+      "address": "rhPPUuYTZemv5kjrLGySqQJfGv1k3C4rTA",
+      "nftAmount": 1,
+      "nfts": [
+        "Parry perch #551"
+      ],
+      "recentAirdrops": null
+    },
+    {
+      "address": "rMd2xhMgkjEcqfqrbp6UXh3xiYWs1jmqJV",
+      "nftAmount": 1,
+      "nfts": [
+        "Parry perch #507"
+      ],
+      "recentAirdrops": null
+    },
+    {
+      "address": "rU3ZTThNtqTtMwEzSz3CPHjwoR8LyhuiEg",
+      "nftAmount": 1,
+      "nfts": [
+        "Parry perch #492"
+      ],
+      "recentAirdrops": null
+    },
+    {
+      "address": "r3P4FxnRJPLidJQTPWsETL42P2PqC1H4QE",
+      "nftAmount": 1,
+      "nfts": [
+        "Parry perch #154"
+      ],
+      "recentAirdrops": 10000
+    },
+    {
+      "address": "rpAH5n2hLBKSVb2ADEsXCWUoxJ3gvCZCmK",
+      "nftAmount": 1,
+      "nfts": [
+        "Parry perch #399"
+      ],
+      "recentAirdrops": 10000
+    },
+    {
+      "address": "raGTpkaKKf43Nvqs9ZBSVzLpLe5JsnFBFZ",
+      "nftAmount": 1,
+      "nfts": [
+        "Parry perch #337"
+      ],
+      "recentAirdrops": 10000
+    },
+    {
+      "address": "raw1EjVXYs5Tb6yCtPMQYQLTf1m8ovtejE",
+      "nftAmount": 2,
+      "nfts": [
+        "Parry perch #23",
+        "Parry perch #479"
+      ],
+      "recentAirdrops": 40000
+    },
+    {
+      "address": "r9ro7UakBX9hfLcdbNhwDUN1AocU9qsK1m",
+      "nftAmount": 5,
+      "nfts": [
+        "Parry perch #485",
+        "Parry perch #204",
+        "Parry perch #484",
+        "Parry perch #476",
+        "Parry perch #103"
+      ],
+      "recentAirdrops": 50000
+    },
+    {
+      "address": "rGwQvXNVYBGV5VxLZkccBBXNcCnFXjMJaq",
+      "nftAmount": 5,
+      "nfts": [
+        "Parry perch #265",
+        "Parry perch #114",
+        "Parry perch #422",
+        "Parry perch #158",
+        "Parry perch #477"
+      ],
+      "recentAirdrops": 50000
+    },
+    {
+      "address": "ra3qzQhXYjSCiY2Bj8YSP4zDCu7Z7e3qEM",
+      "nftAmount": 3,
+      "nfts": [
+        "Parry perch #181",
+        "Parry perch #274",
+        "Parry perch #138"
+      ],
+      "recentAirdrops": 350000
+    },
+    {
+      "address": "rLKu7BQnmqMRKZyVCPmpciKzTj3QpJ89qs",
+      "nftAmount": 5,
+      "nfts": [
+        "Parry perch #364",
+        "Parry perch #472",
+        "Parry perch #336",
+        "Parry perch #9",
+        "Parry perch #260"
+      ],
+      "recentAirdrops": 370000
+    },
+    {
+      "address": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+      "nftAmount": 1,
+      "nfts": [
+        "Parry perch #107"
+      ],
+      "recentAirdrops": 25000000
+    }
+  ],
+  "recentAirdrops": {
+    "r9ro7UakBX9hfLcdbNhwDUN1AocU9qsK1m": {
+      "amount": 50000
+    },
+    "raw1EjVXYs5Tb6yCtPMQYQLTf1m8ovtejE": {
+      "amount": 40000
+    },
+    "raGTpkaKKf43Nvqs9ZBSVzLpLe5JsnFBFZ": {
+      "amount": 10000
+    },
+    "rpAH5n2hLBKSVb2ADEsXCWUoxJ3gvCZCmK": {
+      "amount": 10000
+    },
+    "rLKu7BQnmqMRKZyVCPmpciKzTj3QpJ89qs": {
+      "amount": 370000
+    },
+    "r3P4FxnRJPLidJQTPWsETL42P2PqC1H4QE": {
+      "amount": 10000
+    },
+    "rGwQvXNVYBGV5VxLZkccBBXNcCnFXjMJaq": {
+      "amount": 50000
+    },
+    "ra3qzQhXYjSCiY2Bj8YSP4zDCu7Z7e3qEM": {
+      "amount": 350000
+    },
+    "rPARRYa275XRBtPQ4wTxvHJuzYjNFS6ibR": {
+      "amount": 88372880.70591953
+    },
+    "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC": {
+      "amount": 25000000
+    }
+  },
+  "airdropStatus": {
+    "result": {
+      "account": "rPARRYa275XRBtPQ4wTxvHJuzYjNFS6ibR",
+      "ledger_index_min": 32570,
+      "ledger_index_max": 93222467,
+      "transactions": [
+        {
+          "meta": {
+            "AffectedNodes": [
+              {
+                "ModifiedNode": {
+                  "FinalFields": {
+                    "Account": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+                    "Balance": "21025384",
+                    "Flags": 0,
+                    "OwnerCount": 0,
+                    "Sequence": 92740121
+                  },
+                  "LedgerEntryType": "AccountRoot",
+                  "LedgerIndex": "C6908129080AC54AC7D6292B35A58C704285082FA532A56C8D27DB9A39C45AC8",
+                  "PreviousFields": {
+                    "Balance": "22035396",
+                    "Sequence": 92740120
+                  },
+                  "PreviousTxnID": "57257DF7802DC63B302B52C4D589BCD42C5F7C39636DF3807114E5FFCCD87589",
+                  "PreviousTxnLgrSeq": 92742294
+                }
+              },
+              {
+                "CreatedNode": {
+                  "LedgerEntryType": "AccountRoot",
+                  "LedgerIndex": "CA08D19DF06621513B28C9E395E988655F4A5EDA77D96712231671183203A49C",
+                  "NewFields": {
+                    "Account": "rPARRYa275XRBtPQ4wTxvHJuzYjNFS6ibR",
+                    "Balance": "1010000",
+                    "Sequence": 92742300
+                  }
+                }
+              }
+            ],
+            "TransactionIndex": 57,
+            "TransactionResult": "tesSUCCESS",
+            "delivered_amount": "1010000"
+          },
+          "tx_json": {
+            "Account": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+            "DeliverMax": "1010000",
+            "Destination": "rPARRYa275XRBtPQ4wTxvHJuzYjNFS6ibR",
+            "Fee": "12",
+            "LastLedgerSequence": 92742318,
+            "Memos": [
+              {
+                "Memo": {
+                  "MemoData": "41637469766174696F6E206F662076616E69747920616464726573733A20725041525259613237355852427450513477547876484A757A596A4E465336696252",
+                  "MemoType": "56616E6974792D784170702D4D656D6F"
+                }
+              }
+            ],
+            "Sequence": 92740120,
+            "SigningPubKey": "0278DCAA7B83C5441182B242AE5D76F92649C6407B884602400E49B4E4DD395E49",
+            "TransactionType": "Payment",
+            "TxnSignature": "30450221008D2F4E6361D6FA049B5BBE9941CF3487E9CC5DFEBA644D58CE12D0EE584A876402204C436E15ACE48AC720FCD52E57EACA387EA8C8560E210E14109F7EC38970FAE1",
+            "ledger_index": 92742300,
+            "date": 787405782
+          },
+          "ledger_index": 92742300,
+          "hash": "288FC2CC3F00E17EC2A1B42123130AE1E3296CC3E7FFC474640B892FB7D8B958",
+          "ledger_hash": "A7E98AA4991C76DC09B7D737859E984C75516B45DA4F5C7107396FB6301E6BB9",
+          "close_time_iso": "2024-12-13T11:49:42Z",
+          "validated": true
+        }
+      ],
+      "validated": true,
+      "limit": 30
+    },
+    "id": 5,
+    "api_version": 2,
+    "type": "response",
+    "warnings": [
+      {
+        "id": 2001,
+        "message": "This is a clio server. clio only serves validated data. If you want to talk to rippled, include 'ledger_index':'current' in your request"
+      }
+    ]
+  },
+  "fullApiResponse": {
+    "type": "xls20",
+    "list": "nfts",
+    "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+    "issuerDetails": {
+      "username": null,
+      "service": null
+    },
+    "taxon": 33,
+    "order": "mintedOld",
+    "nfts": [
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F5B10CB1E805871A2E",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740142,
+        "owner": "r3P4FxnRJPLidJQTPWsETL42P2PqC1H4QE",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3135342E6A736F6E",
+        "nftSerial": 92740142,
+        "issuedAt": 1735931141,
+        "ownerChangedAt": 1735931252,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/154.json",
+        "metadata": {
+          "name": "Parry perch #154",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/154.png",
+          "dna": "eea7aeb76c9c38f709f52a381b37c87baaf0a9e4",
+          "edition": 154,
+          "date": 1735921771767,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "purple"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "purple"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Smile"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "Wave"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "GoldandHat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F5C7F282EB05871A2F",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740143,
+        "owner": "r9Lh9XQx91jUAZZ7zuXiZC2PEchyjaueWK",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3537342E6A736F6E",
+        "nftSerial": 92740143,
+        "issuedAt": 1735931390,
+        "ownerChangedAt": 1735931480,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/574.json",
+        "metadata": {
+          "name": "Parry perch #574",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/574.png",
+          "dna": "41d6f100dcf9b073575d52d33cb5a1e4535da360",
+          "edition": 574,
+          "date": 1735921805793,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "oldandgray"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "black"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Closed"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "Wave"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "BeachandHat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F5DED853EA05871A30",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740144,
+        "owner": "raw1EjVXYs5Tb6yCtPMQYQLTf1m8ovtejE",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F32332E6A736F6E",
+        "nftSerial": 92740144,
+        "issuedAt": 1735931390,
+        "ownerChangedAt": 1735931671,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/23.json",
+        "metadata": {
+          "name": "Parry perch #23",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/23.png",
+          "dna": "de305bf12b72bc153006276a0faf80f6bd4643f2",
+          "edition": 23,
+          "date": 1735921760711,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "plane"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "black"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Smile"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "thinking"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "GoldandHat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F5F5BE24ED05871A31",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740145,
+        "owner": "rB3Gn37vMmnVmfM1Ko7xFkSNS8x8xvBpQJ",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F36322E6A736F6E",
+        "nftSerial": 92740145,
+        "issuedAt": 1735931990,
+        "ownerChangedAt": 1735932302,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/62.json",
+        "metadata": {
+          "name": "Parry perch #62",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/62.png",
+          "dna": "098bdf3920f62df004a86d3e6c796ed06195775c",
+          "edition": 62,
+          "date": 1735921764098,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "darkandorange"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Picassoandstyleandshirt"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "silver"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Lookandright"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "blank"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "blank"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F50CA3F5EC05871A32",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740146,
+        "owner": "rLmsohdSEXXtBFrSdDTjfXRjmkSU7KHfus",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3332322E6A736F6E",
+        "nftSerial": 92740146,
+        "issuedAt": 1735932052,
+        "ownerChangedAt": 1735932162,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/322.json",
+        "metadata": {
+          "name": "Parry perch #322",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/322.png",
+          "dna": "5555ac4d5b79c8e3b67a242fda6155b6b2ac8b14",
+          "edition": 322,
+          "date": 1735921785373,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "wildandgreen"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "BandagedandEar"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "silver"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Lookandright"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "blank"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "blank"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F52389C6EF05871A33",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740147,
+        "owner": "raw1EjVXYs5Tb6yCtPMQYQLTf1m8ovtejE",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3437392E6A736F6E",
+        "nftSerial": 92740147,
+        "issuedAt": 1735932360,
+        "ownerChangedAt": 1735932480,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/479.json",
+        "metadata": {
+          "name": "Parry perch #479",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/479.png",
+          "dna": "95bbc254a8bfe802c0afee3a7c484bacee4a11de",
+          "edition": 479,
+          "date": 1735921798093,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "river"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "BandagedandEar"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "purple"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "common"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "blank"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "blank"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F53A6F97EE05871A34",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740148,
+        "owner": "rMJWQuGVwwjCSB2uxg9kBHWAszPJAEVTYx",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3239392E6A736F6E",
+        "nftSerial": 92740148,
+        "issuedAt": 1735933110,
+        "ownerChangedAt": 1735933221,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/299.json",
+        "metadata": {
+          "name": "Parry perch #299",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/299.png",
+          "dna": "b10b66838744d1cdcc7bb4e524fae8bb7182788c",
+          "edition": 299,
+          "date": 1735921783517,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "plane"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "silver"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Lookandright"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "holding the bear"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "blank"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F5515568F105871A35",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740149,
+        "owner": "rGR24bDyGWHbHfvpBZtBQGXAbKDeF8j7YD",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3538382E6A736F6E",
+        "nftSerial": 92740149,
+        "issuedAt": 1735933110,
+        "ownerChangedAt": 1735933231,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/588.json",
+        "metadata": {
+          "name": "Parry perch #588",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/588.png",
+          "dna": "727e46f79736bfa9c387018f1308f3b6d00400d0",
+          "edition": 588,
+          "date": 1735921806943,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "river"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Monalisa"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "blue"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Lookandright"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "blank"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "blank"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F5683B39F005871A36",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740150,
+        "owner": "rhguC5QAthoZpc6T5H7HZMeCrFJMtSjNZc",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F34322E6A736F6E",
+        "nftSerial": 92740150,
+        "issuedAt": 1735933302,
+        "ownerChangedAt": 1735933710,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/42.json",
+        "metadata": {
+          "name": "Parry perch #42",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/42.png",
+          "dna": "1a9daf05c259ecb20b7d6e937143f7b804640142",
+          "edition": 42,
+          "date": 1735921762398,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "river"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "gold"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Lookandright"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "VineandGlass"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "blank"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F57F210AF305871A37",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740151,
+        "owner": "rUifgZubvg1nr6wZE73yTRNVZF4ep8Fa7M",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3532362E6A736F6E",
+        "nftSerial": 92740151,
+        "issuedAt": 1735933302,
+        "ownerChangedAt": 1735933571,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/526.json",
+        "metadata": {
+          "name": "Parry perch #526",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/526.png",
+          "dna": "ca22a21a7895515f2ad4a825a53bbad42aa95193",
+          "edition": 526,
+          "date": 1735921801924,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "darkandorange"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "black"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Smile"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "Pipe"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "Hat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F59606DBF205871A38",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740152,
+        "owner": "rhguC5QAthoZpc6T5H7HZMeCrFJMtSjNZc",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F31322E6A736F6E",
+        "nftSerial": 92740152,
+        "issuedAt": 1735933302,
+        "ownerChangedAt": 1735933672,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/12.json",
+        "metadata": {
+          "name": "Parry perch #12",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/12.png",
+          "dna": "e23e35c5fb8a8816fae386d9011daadc941633b3",
+          "edition": 12,
+          "date": 1735921759789,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "yellow"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "Green"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Closed"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "VineandGlass"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "Hat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F5ACECACF505871A39",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740153,
+        "owner": "rpAH5n2hLBKSVb2ADEsXCWUoxJ3gvCZCmK",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3339392E6A736F6E",
+        "nftSerial": 92740153,
+        "issuedAt": 1735933610,
+        "ownerChangedAt": 1735933931,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/399.json",
+        "metadata": {
+          "name": "Parry perch #399",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/399.png",
+          "dna": "1f5d4b96eba4c9fa71c8077fc4841a987e71cb91",
+          "edition": 399,
+          "date": 1735921791585,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "river"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "gold"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Closed"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "VineandGlass"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "JokerandHat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F5C3D27DF405871A3A",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740154,
+        "owner": "rLVAKRj4zYW8y2bRdD3XLcWCxHPggbvF6P",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F35322E6A736F6E",
+        "nftSerial": 92740154,
+        "issuedAt": 1735934342,
+        "ownerChangedAt": 1735936252,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/52.json",
+        "metadata": {
+          "name": "Parry perch #52",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/52.png",
+          "dna": "7bb46e3b40bffb15e6d5871b0d9f96324fcb8aa8",
+          "edition": 52,
+          "date": 1735921763196,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "colorful"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "Green"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Lookandright"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "VineandGlass"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "Hat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F5DAB84EF705871A3B",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740155,
+        "owner": "rUWrSnGBXvXn3v41xNaAUnLaovXUwGmasv",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F372E6A736F6E",
+        "nftSerial": 92740155,
+        "issuedAt": 1735934532,
+        "ownerChangedAt": 1735934642,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/7.json",
+        "metadata": {
+          "name": "Parry perch #7",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/7.png",
+          "dna": "a7695c3a9b6cce01f5096f8080ec3073f3235470",
+          "edition": 7,
+          "date": 1735921759351,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "oldandgray"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "GustaveandCourbet"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "gold"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "common"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "blank"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "blank"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F5F19E1FF605871A3C",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740156,
+        "owner": "ra3qzQhXYjSCiY2Bj8YSP4zDCu7Z7e3qEM",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3138312E6A736F6E",
+        "nftSerial": 92740156,
+        "issuedAt": 1735934832,
+        "ownerChangedAt": 1735935011,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/181.json",
+        "metadata": {
+          "name": "Parry perch #181",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/181.png",
+          "dna": "8f85c44b1320e9197c0716682ca63c2f9ca1ad01",
+          "edition": 181,
+          "date": 1735921773936,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "darkandorange"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "blue"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Smile"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "thinking"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "BeachandHat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F50883F0F905871A3D",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740157,
+        "owner": "ra3qzQhXYjSCiY2Bj8YSP4zDCu7Z7e3qEM",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3237342E6A736F6E",
+        "nftSerial": 92740157,
+        "issuedAt": 1735934832,
+        "ownerChangedAt": 1735934992,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/274.json",
+        "metadata": {
+          "name": "Parry perch #274",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/274.png",
+          "dna": "cd6cafa513d8f512d9d29562b4d5350682757da7",
+          "edition": 274,
+          "date": 1735921781511,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "yellow"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "purple"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Closed"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "thinking"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "BeachandHat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F51F69C1F805871A3E",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740158,
+        "owner": "rDzQaiue1YYro7g1kjRiRMw85Nk9w4QesE",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3334322E6A736F6E",
+        "nftSerial": 92740158,
+        "issuedAt": 1735937271,
+        "ownerChangedAt": 1735937791,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/342.json",
+        "metadata": {
+          "name": "Parry perch #342",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/342.png",
+          "dna": "e2e532e872f6f4f1b5b7a26a328f552992ed30cb",
+          "edition": 342,
+          "date": 1735921786944,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "purple"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "blue"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Lookandright"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "blank"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "Hat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F5364F92FB05871A3F",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740159,
+        "owner": "raGTpkaKKf43Nvqs9ZBSVzLpLe5JsnFBFZ",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3333372E6A736F6E",
+        "nftSerial": 92740159,
+        "issuedAt": 1735939232,
+        "ownerChangedAt": 1735939340,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/337.json",
+        "metadata": {
+          "name": "Parry perch #337",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/337.png",
+          "dna": "cf6c1d4b625d43ff29a920b9712813123280b3ee",
+          "edition": 337,
+          "date": 1735921786549,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "plane"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "black"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Closed"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "Wave"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "Hat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F54D3563FA05871A40",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740160,
+        "owner": "rSCSrUn7JkhW4zjWfQMZf7F9SFd7MDvTA",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3239342E6A736F6E",
+        "nftSerial": 92740160,
+        "issuedAt": 1735942341,
+        "ownerChangedAt": 1735942571,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/294.json",
+        "metadata": {
+          "name": "Parry perch #294",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/294.png",
+          "dna": "c580f53daa22670671254b746d0e8f37f70a53ae",
+          "edition": 294,
+          "date": 1735921783122,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "goldandframe"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "Green"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Closed"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "VineandGlass"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "BeachandHat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F5641B34FD05871A41",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740161,
+        "owner": "rSCSrUn7JkhW4zjWfQMZf7F9SFd7MDvTA",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F36372E6A736F6E",
+        "nftSerial": 92740161,
+        "issuedAt": 1735942341,
+        "ownerChangedAt": 1735942671,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/67.json",
+        "metadata": {
+          "name": "Parry perch #67",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/67.png",
+          "dna": "50cce0358c63db49e4c81ac1371546e325b5e302",
+          "edition": 67,
+          "date": 1735921764504,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "dark"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "black"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Smile"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "thinking"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "Hat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F57B0105FC05871A42",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740162,
+        "owner": "r9ro7UakBX9hfLcdbNhwDUN1AocU9qsK1m",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3438352E6A736F6E",
+        "nftSerial": 92740162,
+        "issuedAt": 1735943490,
+        "ownerChangedAt": 1735943602,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/485.json",
+        "metadata": {
+          "name": "Parry perch #485",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/485.png",
+          "dna": "bccbd3f78afda95ba0c141bb0f526d343891999a",
+          "edition": 485,
+          "date": 1735921798573,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "goldandframe"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "GustaveandCourbet"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "Green"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Closed"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "blank"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "blank"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F591E6D6FF05871A43",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740163,
+        "owner": "r9ro7UakBX9hfLcdbNhwDUN1AocU9qsK1m",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3230342E6A736F6E",
+        "nftSerial": 92740163,
+        "issuedAt": 1735943490,
+        "ownerChangedAt": 1735943621,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/204.json",
+        "metadata": {
+          "name": "Parry perch #204",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/204.png",
+          "dna": "2daa3d2f23f8aecffcd2f90d2ddfd820ae363247",
+          "edition": 204,
+          "date": 1735921775744,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "yellow"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "gold"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Smile"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "Pipe"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "GoldandHat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F5A8CCA7FE05871A44",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740164,
+        "owner": "rW7WjoXrEkCAkX6HMYogQA1nyd2BSwUqT",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3231372E6A736F6E",
+        "nftSerial": 92740164,
+        "issuedAt": 1735943552,
+        "ownerChangedAt": 1735943810,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/217.json",
+        "metadata": {
+          "name": "Parry perch #217",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/217.png",
+          "dna": "1ea89a98f6147491b48b396390ee879295a67f4b",
+          "edition": 217,
+          "date": 1735921776870,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "dark"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "gold"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "common"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "blank"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "GoldandHat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F5BFB278C105871A45",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740165,
+        "owner": "r9ro7UakBX9hfLcdbNhwDUN1AocU9qsK1m",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3438342E6A736F6E",
+        "nftSerial": 92740165,
+        "issuedAt": 1735943690,
+        "ownerChangedAt": 1735944421,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/484.json",
+        "metadata": {
+          "name": "Parry perch #484",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/484.png",
+          "dna": "35abdef91ca0d2b8b21c0ed2df142912e628fd46",
+          "edition": 484,
+          "date": 1735921798489,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "purple"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "purple"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Smile"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "blank"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "Hat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F5D69849C005871A46",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740166,
+        "owner": "r9ro7UakBX9hfLcdbNhwDUN1AocU9qsK1m",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3437362E6A736F6E",
+        "nftSerial": 92740166,
+        "issuedAt": 1735943690,
+        "ownerChangedAt": 1735944401,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/476.json",
+        "metadata": {
+          "name": "Parry perch #476",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/476.png",
+          "dna": "0dcdf793ccef3e9ca5970c0faa6d535e9d726176",
+          "edition": 476,
+          "date": 1735921797840,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "goldandframe"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Monalisa"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "blue"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Closed"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "blank"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "blank"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F5ED7E1AC305871A47",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740167,
+        "owner": "r9ro7UakBX9hfLcdbNhwDUN1AocU9qsK1m",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3130332E6A736F6E",
+        "nftSerial": 92740167,
+        "issuedAt": 1735943690,
+        "ownerChangedAt": 1735944382,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/103.json",
+        "metadata": {
+          "name": "Parry perch #103",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/103.png",
+          "dna": "995c7c6af6b29bdfd19d5ea0a6f05b2c8bea80b5",
+          "edition": 103,
+          "date": 1735921767531,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "grayandblack"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "Green"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Lookandright"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "Wave"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "GoldandHat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F50463EBC205871A48",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740168,
+        "owner": "rLKu7BQnmqMRKZyVCPmpciKzTj3QpJ89qs",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3336342E6A736F6E",
+        "nftSerial": 92740168,
+        "issuedAt": 1735943940,
+        "ownerChangedAt": 1735944262,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/364.json",
+        "metadata": {
+          "name": "Parry perch #364",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/364.png",
+          "dna": "fa1400146789606c0a0b67a1001fbbc5264b50ba",
+          "edition": 364,
+          "date": 1735921788800,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "river"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "GustaveandCourbet"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "silver"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Lookandright"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "blank"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "blank"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F51B49BCC505871A49",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740169,
+        "owner": "rLKu7BQnmqMRKZyVCPmpciKzTj3QpJ89qs",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3437322E6A736F6E",
+        "nftSerial": 92740169,
+        "issuedAt": 1735943940,
+        "ownerChangedAt": 1735944281,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/472.json",
+        "metadata": {
+          "name": "Parry perch #472",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/472.png",
+          "dna": "5f32d1c6fd199a9bcb7d1883debcf4119b6c78fd",
+          "edition": 472,
+          "date": 1735921797482,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "oldandgray"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Picassoandstyleandshirt"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "gold"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Smile"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "blank"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "blank"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F5322F8DC405871A4A",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740170,
+        "owner": "rLKu7BQnmqMRKZyVCPmpciKzTj3QpJ89qs",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3333362E6A736F6E",
+        "nftSerial": 92740170,
+        "issuedAt": 1735943940,
+        "ownerChangedAt": 1735944292,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/336.json",
+        "metadata": {
+          "name": "Parry perch #336",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/336.png",
+          "dna": "2167c8945ebe71f87d02db9691c3805aa9d26137",
+          "edition": 336,
+          "date": 1735921786473,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "oldandgray"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "GustaveandCourbet"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "purple"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Closed"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "blank"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "blank"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F549155EC705871A4B",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740171,
+        "owner": "rLKu7BQnmqMRKZyVCPmpciKzTj3QpJ89qs",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F392E6A736F6E",
+        "nftSerial": 92740171,
+        "issuedAt": 1735943940,
+        "ownerChangedAt": 1735944312,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/9.json",
+        "metadata": {
+          "name": "Parry perch #9",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/9.png",
+          "dna": "390089fb65e4334839f101d03c2931da329dace2",
+          "edition": 9,
+          "date": 1735921759530,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "wildandgreen"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Monalisa"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "gold"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Closed"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "blank"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "blank"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F55FFB2FC605871A4C",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740172,
+        "owner": "rLKu7BQnmqMRKZyVCPmpciKzTj3QpJ89qs",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3236302E6A736F6E",
+        "nftSerial": 92740172,
+        "issuedAt": 1735943940,
+        "ownerChangedAt": 1735944250,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/260.json",
+        "metadata": {
+          "name": "Parry perch #260",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/260.png",
+          "dna": "03fc90b0cb55b79e44a6fec001b038a4183bae7e",
+          "edition": 260,
+          "date": 1735921780387,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "dark"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "purple"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Closed"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "holding the bear"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "blank"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F576E100C905871A4D",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740173,
+        "owner": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3130372E6A736F6E",
+        "nftSerial": 92740173,
+        "issuedAt": 1735944851,
+        "ownerChangedAt": 1735945061,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/107.json",
+        "metadata": {
+          "name": "Parry perch #107",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/107.png",
+          "dna": "564b4fbb8c7a28d97dbb0afadb9ba4fb5f266796",
+          "edition": 107,
+          "date": 1735921767839,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "castle"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Picassoandstyleandshirt"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "blue"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Smile"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "blank"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "blank"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F58DC6D1C805871A4E",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740174,
+        "owner": "ra3qzQhXYjSCiY2Bj8YSP4zDCu7Z7e3qEM",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3133382E6A736F6E",
+        "nftSerial": 92740174,
+        "issuedAt": 1735945101,
+        "ownerChangedAt": 1735945341,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/138.json",
+        "metadata": {
+          "name": "Parry perch #138",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/138.png",
+          "dna": "854516a861d3bb48e19ba0d23404801b94cd587e",
+          "edition": 138,
+          "date": 1735921770510,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "wildandgreen"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "Green"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "common"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "holding the bear"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "blank"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F5A4ACA2CB05871A4F",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740175,
+        "owner": "rGwQvXNVYBGV5VxLZkccBBXNcCnFXjMJaq",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3236352E6A736F6E",
+        "nftSerial": 92740175,
+        "issuedAt": 1735945941,
+        "ownerChangedAt": 1735946141,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/265.json",
+        "metadata": {
+          "name": "Parry perch #265",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/265.png",
+          "dna": "ff1c9c0efeedd6a647223ac4dbdf519179b3ea16",
+          "edition": 265,
+          "date": 1735921780777,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "wildandgreen"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "Green"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Lookandright"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "Pipe"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "WomenandHat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F5BB9273CA05871A50",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740176,
+        "owner": "rGwQvXNVYBGV5VxLZkccBBXNcCnFXjMJaq",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3131342E6A736F6E",
+        "nftSerial": 92740176,
+        "issuedAt": 1735945941,
+        "ownerChangedAt": 1735946181,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/114.json",
+        "metadata": {
+          "name": "Parry perch #114",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/114.png",
+          "dna": "85113747cb272602ecf672216371f5530126efcf",
+          "edition": 114,
+          "date": 1735921768405,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "darkandorange"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "silver"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "common"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "blank"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "JokerandHat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F5D27844CD05871A51",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740177,
+        "owner": "rGwQvXNVYBGV5VxLZkccBBXNcCnFXjMJaq",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3432322E6A736F6E",
+        "nftSerial": 92740177,
+        "issuedAt": 1735945941,
+        "ownerChangedAt": 1735946160,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/422.json",
+        "metadata": {
+          "name": "Parry perch #422",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/422.png",
+          "dna": "7ac6cabf3f8c1a18a211c2abbe305554a56bd926",
+          "edition": 422,
+          "date": 1735921793400,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "PicassoandCrossandart"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "Green"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Closed"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "Wave"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "blank"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F5E95E15CC05871A52",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740178,
+        "owner": "rGwQvXNVYBGV5VxLZkccBBXNcCnFXjMJaq",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3135382E6A736F6E",
+        "nftSerial": 92740178,
+        "issuedAt": 1735945941,
+        "ownerChangedAt": 1735946091,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/158.json",
+        "metadata": {
+          "name": "Parry perch #158",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/158.png",
+          "dna": "63496fa46486096dfe408dce803e5aa1d5310a32",
+          "edition": 158,
+          "date": 1735921772077,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "castle"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "black"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "common"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "thinking"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "JapaneseandHat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F50043E6CF05871A53",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740179,
+        "owner": "rGwQvXNVYBGV5VxLZkccBBXNcCnFXjMJaq",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3437372E6A736F6E",
+        "nftSerial": 92740179,
+        "issuedAt": 1735945941,
+        "ownerChangedAt": 1735946201,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/477.json",
+        "metadata": {
+          "name": "Parry perch #477",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/477.png",
+          "dna": "edf8e1a803383149eb171d85d87d5fdb96bc8956",
+          "edition": 477,
+          "date": 1735921797929,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "dark"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "GustaveandCourbet"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "black"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Lookandright"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "blank"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "blank"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F51729B7CE05871A54",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740180,
+        "owner": "rDzQaiue1YYro7g1kjRiRMw85Nk9w4QesE",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3134302E6A736F6E",
+        "nftSerial": 92740180,
+        "issuedAt": 1735946140,
+        "ownerChangedAt": 1735946271,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/140.json",
+        "metadata": {
+          "name": "Parry perch #140",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/140.png",
+          "dna": "f8d0acc55df3c62a78e8daf3361770c61a233bd9",
+          "edition": 140,
+          "date": 1735921770667,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "plane"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "purple"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Smile"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "VineandGlass"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "BeachandHat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F52E0F88D105871A55",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740181,
+        "owner": "rhPPUuYTZemv5kjrLGySqQJfGv1k3C4rTA",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3535312E6A736F6E",
+        "nftSerial": 92740181,
+        "issuedAt": 1735946590,
+        "ownerChangedAt": 1735946692,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/551.json",
+        "metadata": {
+          "name": "Parry perch #551",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/551.png",
+          "dna": "ba8001890367cfdc7566b1e44ea1111de8efdd72",
+          "edition": 551,
+          "date": 1735921803993,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "dark"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "silver"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Closed"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "holding the bear"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "GoldandHat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F544F559D005871A56",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740182,
+        "owner": "rW7WjoXrEkCAkX6HMYogQA1nyd2BSwUqT",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3235362E6A736F6E",
+        "nftSerial": 92740182,
+        "issuedAt": 1735947562,
+        "ownerChangedAt": 1735950481,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/256.json",
+        "metadata": {
+          "name": "Parry perch #256",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/256.png",
+          "dna": "f87cc5423ba030a1953c53752e3299bf7f516f83",
+          "edition": 256,
+          "date": 1735921780047,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "castle"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "black"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Smile"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "Wave"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "WomenandHat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F55BDB2AD305871A57",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740183,
+        "owner": "rSCSrUn7JkhW4zjWfQMZf7F9SFd7MDvTA",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F34312E6A736F6E",
+        "nftSerial": 92740183,
+        "issuedAt": 1735948310,
+        "ownerChangedAt": 1735948571,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/41.json",
+        "metadata": {
+          "name": "Parry perch #41",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/41.png",
+          "dna": "16f4a63426d0a486433d64da1b910c1ebdb1a518",
+          "edition": 41,
+          "date": 1735921762309,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "dark"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "purple"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Smile"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "Wave"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "GoldandHat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F572C0FBD205871A58",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740184,
+        "owner": "rMd2xhMgkjEcqfqrbp6UXh3xiYWs1jmqJV",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3530372E6A736F6E",
+        "nftSerial": 92740184,
+        "issuedAt": 1735951442,
+        "ownerChangedAt": 1735951762,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/507.json",
+        "metadata": {
+          "name": "Parry perch #507",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/507.png",
+          "dna": "852bae39760d0d8dc02c7555ad15c73a971019da",
+          "edition": 507,
+          "date": 1735921800344,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "river"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "purple"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Closed"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "VineandGlass"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "JokerandHat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F589A6CCD505871A59",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740185,
+        "owner": "rDzQaiue1YYro7g1kjRiRMw85Nk9w4QesE",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3135352E6A736F6E",
+        "nftSerial": 92740185,
+        "issuedAt": 1735953710,
+        "ownerChangedAt": 1735953890,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/155.json",
+        "metadata": {
+          "name": "Parry perch #155",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/155.png",
+          "dna": "93c33fa8f646b7b69f5d3c27297598d62407774a",
+          "edition": 155,
+          "date": 1735921771842,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "river"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "blue"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Closed"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "thinking"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "WomenandHat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F5A08C9DD405871A5A",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740186,
+        "owner": "rDzQaiue1YYro7g1kjRiRMw85Nk9w4QesE",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3336312E6A736F6E",
+        "nftSerial": 92740186,
+        "issuedAt": 1735953710,
+        "ownerChangedAt": 1735953872,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/361.json",
+        "metadata": {
+          "name": "Parry perch #361",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/361.png",
+          "dna": "b2f96063e28482af79f553c515281d5fd05ffddb",
+          "edition": 361,
+          "date": 1735921788564,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "wildandgreen"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "black"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Lookandright"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "VineandGlass"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "Hat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F5B7726ED705871A5B",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740187,
+        "owner": "rDzQaiue1YYro7g1kjRiRMw85Nk9w4QesE",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3432312E6A736F6E",
+        "nftSerial": 92740187,
+        "issuedAt": 1735953710,
+        "ownerChangedAt": 1735953900,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/421.json",
+        "metadata": {
+          "name": "Parry perch #421",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/421.png",
+          "dna": "a0ab43388d493e04b6cd57358e168c3d71b46b97",
+          "edition": 421,
+          "date": 1735921793325,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "yellow"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "black"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Closed"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "thinking"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "WomenandHat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      },
+      {
+        "type": "xls20",
+        "flags": {
+          "burnable": false,
+          "onlyXRP": false,
+          "trustLine": false,
+          "transferable": true
+        },
+        "issuer": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC",
+        "nftokenID": "00081B5832DB3AF370B6CCE417BB4269329488790146D4F5CE583FD605871A5C",
+        "nftokenTaxon": 33,
+        "transferFee": 7000,
+        "sequence": 92740188,
+        "owner": "rU3ZTThNtqTtMwEzSz3CPHjwoR8LyhuiEg",
+        "uri": "697066733A2F2F6261667962656966623333787674376437747874346E6B69377634746575726C36647637363561717969627168746D636870667A3336636E357A652F3439322E6A736F6E",
+        "nftSerial": 92740188,
+        "issuedAt": 1735957092,
+        "ownerChangedAt": 1735957201,
+        "deletedAt": null,
+        "mintedByMarketplace": "xrp.cafe",
+        "collection": "rnduQyj5e5KDrJjHrgJc8VkrnaNCJVB4LC:33",
+        "url": "https://ipfs.io/ipfs/bafybeifb33xvt7d7txt4nki7v4teurl6dv765aqyibqhtmchpfz36cn5ze/492.json",
+        "metadata": {
+          "name": "Parry perch #492",
+          "description": "The XRPL NFT Museum: 589 Pixelated Masterpieces. Step into a world where 589 NFTs reinterpret famous paintings through vibrant pixel art, as envisioned by Parry. Each piece is a unique blend of art history and digital innovation on the XRP Ledger.",
+          "image": "ipfs://bafybeicg2lahlzfjfb5giyqqlqp54mosjm5svn2kkdqtq5bdne2sa445lu/492.png",
+          "dna": "80ae45a9990d2131c9336c37ef4beb65526ab793",
+          "edition": 492,
+          "date": 1735921799111,
+          "attributes": [
+            {
+              "trait_type": "1 Background",
+              "value": "grayandblack"
+            },
+            {
+              "trait_type": "2 Skin",
+              "value": "Parrot Skin"
+            },
+            {
+              "trait_type": "3 Head",
+              "value": "Head"
+            },
+            {
+              "trait_type": "4 Beak",
+              "value": "black"
+            },
+            {
+              "trait_type": "5 Eyes",
+              "value": "Smile"
+            },
+            {
+              "trait_type": "6 Hand",
+              "value": "thinking"
+            },
+            {
+              "trait_type": "6 Hat",
+              "value": "JokerandHat"
+            }
+          ],
+          "compiler": "HashLips Art Engine"
+        },
+        "jsonMeta": true,
+        "issuerDetails": {
+          "username": null,
+          "service": null
+        },
+        "ownerDetails": {
+          "username": null,
+          "service": null
+        }
+      }
+    ],
+    "limit": 100
+  }
+}

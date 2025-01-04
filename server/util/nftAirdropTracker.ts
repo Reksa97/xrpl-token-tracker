@@ -44,18 +44,39 @@ export const processNFT = async (
       recentAirdrops?: number;
       address: string;
       nftAmount: number;
-      nfts: string[];
+      rareNftAmount: number;
+      normalNftAmount: number;
+      nfts: any[];
     }
   > = {};
   const nfts = fullApiResponse["nfts"].map((nft: any) => {
+    const nftAmount = holdersMap[nft.owner]
+      ? holdersMap[nft.owner].nftAmount + 1
+      : 1;
+    const nftRecord = {
+      name: nft.metadata.name,
+      nftokenID: nft.nftokenID,
+      isRare: nft.metadata.attributes.some(
+        (attr: any) =>
+          attr.trait_type === "6 Hand" && attr.value === "holding the bear"
+      ),
+      issuedAt: nft.issuedAt,
+    };
+    const rareNftAmount = holdersMap[nft.owner]
+      ? holdersMap[nft.owner].nfts.filter((nft: any) =>
+          nft.isRare ? true : false
+        ).length + (nftRecord.isRare ? 1 : 0)
+      : nftRecord.isRare
+      ? 1
+      : 0;
     holdersMap[nft.owner] = {
       address: nft.owner,
-      nftAmount: holdersMap[nft.owner]
-        ? holdersMap[nft.owner].nftAmount + 1
-        : 1,
+      nftAmount,
+      rareNftAmount,
+      normalNftAmount: nftAmount - rareNftAmount,
       nfts: holdersMap[nft.owner]
-        ? [...holdersMap[nft.owner].nfts, nft.metadata.name]
-        : [nft.metadata.name],
+        ? [...holdersMap[nft.owner].nfts, nftRecord]
+        : [nftRecord],
     };
     return {
       owner: nft.owner,
@@ -79,7 +100,10 @@ export const processNFT = async (
     forward: false, // false means return from most recent to oldest
   });
 
-  const recentAirdrops: Record<string, { amount: number }> = {};
+  const recentAirdrops: Record<
+    string,
+    { amount: number; transactions: any[] }
+  > = {};
 
   let transactionsAmount = airdropStatus.result.transactions.length;
 
@@ -91,8 +115,17 @@ export const processNFT = async (
       const txAmount = parseFloat(tx.meta.delivered_amount.value);
       const previousAmount =
         recentAirdrops[tx.tx_json.Destination]?.amount || 0;
+      const newTransaction = {
+        hash: tx.hash,
+        close_time_iso: tx.close_time_iso,
+        delivered_amount: tx.meta.delivered_amount,
+      };
+      const transactions =
+        recentAirdrops[tx.tx_json.Destination]?.transactions || [];
+      transactions.push(newTransaction);
       recentAirdrops[tx.tx_json.Destination] = {
         amount: previousAmount + txAmount,
+        transactions,
       };
     }
   });
@@ -101,7 +134,7 @@ export const processNFT = async (
     airdropStatus = await client.request({
       command: "account_tx",
       account: airdropAddress,
-      limit: 30,
+      limit: 30, // 40 seems to be the maximum per request
       marker: airdropStatus.result.marker,
       forward: false, // false means return from most recent to oldest
     });
@@ -116,8 +149,17 @@ export const processNFT = async (
         const txAmount = parseFloat(tx.meta.delivered_amount.value);
         const previousAmount =
           recentAirdrops[tx.tx_json.Destination]?.amount || 0;
+        const newTransaction = {
+          hash: tx.hash,
+          close_time_iso: tx.close_time_iso,
+          delivered_amount: tx.meta.delivered_amount,
+        };
+        const transactions =
+          recentAirdrops[tx.tx_json.Destination]?.transactions || [];
+        transactions.push(newTransaction);
         recentAirdrops[tx.tx_json.Destination] = {
           amount: previousAmount + txAmount,
+          transactions,
         };
       }
     });
@@ -126,6 +168,10 @@ export const processNFT = async (
   holders = holders.map((holder) => ({
     ...holder,
     recentAirdrops: recentAirdrops[holder.address]?.amount || null,
+    recentAirdropsTransactions:
+      recentAirdrops[holder.address]?.transactions.sort((a, b) =>
+        a.close_time_iso.localeCompare(b.close_time_iso)
+      ) || [],
   })) as any;
 
   holders = holders.sort(

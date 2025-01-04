@@ -1,6 +1,8 @@
 // deno-lint-ignore-file no-explicit-any
 import xrpl from "xrpl";
 import { Holders } from "./types.ts";
+import { processNFT } from "./util/nftAirdropTracker.ts";
+import { getLedgerIndexTime } from "./util/xrpl.ts";
 
 const ledgerStep = 1500;
 
@@ -13,19 +15,6 @@ const tokens = {
     address: "raFfm8ihTX65ToJCdBE55dg5WvfgJXCHnk",
     prefix: "parry",
   },
-};
-
-const getLedgerIndexTime = async (
-  client: xrpl.Client,
-  ledgerIndex: number | "validated"
-) => {
-  const response = await client.request({
-    command: "ledger",
-    ledger_index: ledgerIndex,
-  });
-  console.log(response.result.ledger.close_time);
-  const timeInISO = xrpl.rippleTimeToISOTime(response.result.ledger.close_time);
-  return new Date(timeInISO);
 };
 
 const current = async (client: xrpl.Client, tokenName: keyof typeof tokens) => {
@@ -277,6 +266,8 @@ if (import.meta.main) {
   } else if (mode === "newest") {
     await processNewLedgers(client, tokenNameArg);
     await process(tokenNameArg);
+  } else if (mode === "nft") {
+    await processNFT(client);
   } else {
     throw new Error("Invalid mode");
   }
